@@ -1,8 +1,8 @@
 # AminoDeviceIdGenClique
 deviceID generator for https://aminoapps.com
 
-# Termux
-```
+## Termux
+```shell
 - apt update -y
 - apt upgrade -y
 - pkg install python
